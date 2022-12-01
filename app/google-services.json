@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482996692280",
+    "project_id": "easifyuni-16460",
+    "storage_bucket": "easifyuni-16460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482996692280:android:cad9d9068dfb1cf0e44dcd",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482996692280-ieubni5p2t8jlp4s5h9g4s9lrb0hjnu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.foodorderapp",
+            "certificate_hash": "ba2d4c47214ded6ab7af6c9611f999b0158c6a78"
+          }
+        },
+        {
+          "client_id": "482996692280-3vmflftnst4s6i8bq2j2f7vvf9a6oppl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsGAtPlKzXPhylklJkF7TZprLMXHackA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482996692280-3vmflftnst4s6i8bq2j2f7vvf9a6oppl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
